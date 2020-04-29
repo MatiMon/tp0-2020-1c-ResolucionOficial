@@ -1,0 +1,8 @@
+[INFO] 18:03:42:273 tp0/(21293:21293): Inicio log
+[INFO] 18:04:11:199 tp0/(21323:21323): Inicio log
+[INFO] 18:04:11:200 tp0/(21323:21323): Lei la IP 127.0.0.1 y puerto 4444
+
+[INFO] 18:04:11:200 tp0/(21323:21323): Se realizo la conexion
+[INFO] 18:04:11:200 tp0/(21323:21323): Se envio un mensaje
+[INFO] 18:04:11:201 tp0/(21323:21323): mensaje de prueba
+[INFO] 18:04:11:201 tp0/(21323:21323): Se termino el programa
